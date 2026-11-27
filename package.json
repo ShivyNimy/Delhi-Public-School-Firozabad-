@@ -1,0 +1,9 @@
+{
+  "name": "dpsfrz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static build helper for Vercel deploys of the DPS Firozabad informational site. Not required for local development or preview.",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
