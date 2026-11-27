@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="DPS Firozabad emblem">
+  <circle cx="60" cy="60" r="58" fill="#0e2a52"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#e8b13f" stroke-width="4"/>
+  <text x="60" y="55" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="34" fill="#e8b13f">DPS</text>
+  <text x="60" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="11.5" fill="#ffffff" letter-spacing="1">FIROZABAD</text>
+</svg>
