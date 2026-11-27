@@ -248,3 +248,9 @@ details.faq-item p{margin-top:.6rem;color:var(--muted);font-size:.92rem}
 @media (max-width:1024px){.gallery{grid-template-columns:repeat(3,1fr)}}
 @media (max-width:720px){.gallery{grid-template-columns:repeat(2,1fr)}.gallery-wide{grid-column:span 2;grid-row:auto}}
 @media (max-width:480px){.gallery{grid-template-columns:1fr}.gallery-wide{grid-column:span 1}}
+
+/* ---------- official-site footer banner ---------- */
+.footer-official{display:flex;justify-content:center;align-items:center;gap:1.1rem;flex-wrap:wrap;text-align:center;background:rgba(232,177,63,.13);border:1px solid rgba(232,177,63,.4);border-radius:12px;padding:.95rem 1.3rem;margin-top:1.4rem}
+.footer-official span{color:var(--gold);font-weight:800;letter-spacing:.1em;text-transform:uppercase;font-size:.78rem}
+.footer-official a{color:#fff;font-weight:700;text-decoration:none;font-size:1.05rem;word-break:break-all}
+.footer-official a:hover{color:var(--gold);text-decoration:underline}
